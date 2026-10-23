@@ -246,4 +246,4 @@ This repository serves as the official landing page for Aloft. The software is d
 **Get the most recent version of Aloft today!**
 
 ---
-**Last updated:** 2026-10-23 09:51:39 UTC
+**Last updated:** 2026-10-23 14:49:26 UTC
